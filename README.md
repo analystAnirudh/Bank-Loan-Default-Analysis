@@ -1,4 +1,4 @@
-📊 Bank Loan Case Study[ (Link to Excel- https://docs.google.com/spreadsheets/d/1s8ENJO1ky-MLubMopT8hMr83fN1gnr-W/edit?usp=sharing&ouid=103428047773693985368&rtpof=true&sd=true )
+📊 Bank Loan Case Study[ (Link to Excel-https://shorturl.at/0wwMd)
 🏦 Project Overview
 In this project, we analyze loan application data to identify patterns that influence loan default risk. The goal is to help financial institutions make informed lending decisions, reducing financial risk while ensuring deserving applicants get approved.
 ===============================================================================================================================================================================================================================================================================
